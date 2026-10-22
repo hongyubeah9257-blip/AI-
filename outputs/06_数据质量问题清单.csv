@@ -1,0 +1,1295 @@
+﻿严重程度,问题类型,企业标识,企业名称,来源文件,问题说明
+高,coordinate_outside_region,C:9111000071092892XF,三峡高科信息技术有限责任公司,司马台总数据.xlsx,"判断区域=北京；坐标=(30.600069, 114.309097)"
+高,coordinate_outside_region,C:91131082MA093M458R,三河东谷软件开发有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110108MA0068GY1F,上海思朗科技股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.306143, 121.434087)"
+高,coordinate_outside_region,C:91110106MA01E7AT4Y,上海芯安能众微电子技术有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.462478, 121.240426)"
+高,coordinate_outside_region,C:91110108MA001CP39A,上海诚联卓效数字科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.212284, 121.323762)"
+高,coordinate_outside_region,C:91110114MAEFW6FQ5Y,东之丽新材料（北京）有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91110115MA04DEQQ8C,中中（北京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91130100700711241Y,中交远洲交通科技集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911100007109293322,中信机电制造集团有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(35.624783, 111.385003)"
+高,missing_or_invalid_coordinate,C:91130302MAK648DD1E,中冀轩辕建设科技有限公司秦皇岛分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120222MA06QFJQ9C,中创高瓴（北京）数字科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(40.36324, 115.932682)"
+高,coordinate_outside_region,C:91110109MABW1XGC1Q,中化学中科环境科技（北京）有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(38.793708, 115.496072)"
+高,coordinate_outside_region,C:91520191MABWNP9T4N,中化学环境科技发展有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(26.580085, 106.470512)"
+高,coordinate_outside_region,C:91110107MA018CCA2P,中化明达科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(38.500352, 115.010146)"
+高,coordinate_outside_region,C:91110000400000034B,中国化工信息中心有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:9111000010001002XD,中国华能集团有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.025006, 115.963736)"
+高,missing_or_invalid_coordinate,C:91110105329591029H,中国惠普有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110000710926094P,中国石油化工股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91131000122410913E,中国石油天然气管道工程有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA017FWG12,中国石油工程建设有限公司北京设计分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101147649695168,中国移动通信集团终端有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911201167274978049,中国联合网络通信有限公司天津市分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120116710921648C,中国通用航空有限责任公司,司马台总数据.xlsx,"判断区域=天津；坐标=(18.326266, 109.16131)"
+高,coordinate_outside_region,C:911100001000034019,中国铜业有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(25.116512, 102.751643)"
+高,coordinate_outside_region,C:91110000100015058K,中国长江三峡集团有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(30.600064, 114.309091)"
+高,missing_or_invalid_coordinate,C:911100006259115094,中外运—敦豪国际航空快件有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91440300MA5FGYQ80C,中外运创新科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(22.521572, 113.9245)"
+高,coordinate_outside_region,C:91130683MAG1WF7Y51,中奕佳筑建设发展有限公司安国分公司,司马台总数据.xlsx,"判断区域=河北；坐标=(35.23291, 113.217874)"
+高,coordinate_outside_region,C:91440300MA5GLMET1R,中数安信科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(32.022419, 120.937782)"
+高,coordinate_outside_region,C:9113072657552354X3,中景信（上海）旅游发展集团有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(31.185562, 121.39235)"
+高,missing_or_invalid_coordinate,C:91110000710933753A,中海石油炼化有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130925MAEG71XE26,中环信安（沧州）环境技术工程有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(30.45347, 106.630993)"
+高,coordinate_outside_region,C:91110108717869336Y,中盈优创资讯科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.281414, 121.21071)"
+高,coordinate_outside_region,C:91110115MA02MAUU2R,中确国际项目管理有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(37.935907, 114.35936)"
+高,coordinate_outside_region,C:91110108690030118L,中科声龙科技发展（北京）有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(30.51948, 97.579035)"
+高,coordinate_outside_region,C:91110108085476090U,中科安永科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(34.845255, 113.726119)"
+高,coordinate_outside_region,C:91120116MA06GD267H,中科星盾（北京）科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(40.07503, 116.243812)"
+高,coordinate_outside_region,C:91110108MA01AMLY4Y,中科物栖（南京）科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(32.026838, 118.922418)"
+高,coordinate_outside_region,C:91110105MA009W6G2P,中网真如信息科技（北京）有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130606MA0DAW1QX1,中联金安保险经纪有限公司河北分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108694955679X,中航捷锐（西安）光电技术有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(34.305833, 108.831035)"
+高,coordinate_outside_region,C:91110115MA04F6MH8R,中节能大数据有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(32.08992, 118.885393)"
+高,coordinate_outside_region,C:911101051011624040,中远海运航空货运代理有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(30.858145, 121.897919)"
+高,coordinate_outside_region,C:9111010135127031XU,中通服供应链股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(22.556044, 114.071223)"
+高,coordinate_outside_region,C:91130423056524882A,临漳县禄通网络科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(22.617541, 110.17514)"
+高,missing_or_invalid_coordinate,C:91110108MA00FU9T5Y,云起技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120116578638924Q,五八有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(31.188842, 121.064502)"
+高,missing_or_invalid_coordinate,C:91320191MA212QCU5D,京城中安半导体设备（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108MACB21993D,京财财（北京）科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.052149, 115.885672)"
+高,missing_or_invalid_coordinate,C:91110108053647238C,优效（北京）医学研究有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101080628135175,元素数智（北京）信息技术有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130100679916292B,元道通信股份有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(43.889228, 87.578486)"
+高,coordinate_outside_region,C:91110114MACJYB765X,先进计算（天津）信息技术有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.051168, 117.685518)"
+高,coordinate_outside_region,C:91110000780236195L,净雅食品股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110108327149368B,初心数据科技（北京）有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.679017, 119.969263)"
+高,missing_or_invalid_coordinate,C:91110105MAD9PGBJ4R,劳雷（北京）仪器有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110105MA01CETR7N,北交智慧科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.000263, 117.670993)"
+高,missing_or_invalid_coordinate,C:91110105MA01PLHN84,北京一手科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA01FJ925P,北京一本科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101086615891075,北京万向新元科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110111752199411U,北京上德时代自动化工程有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MADLWCXP1D,北京世纪云安新能源有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91130108MAD759HX71,北京东方华太工程咨询有限公司河北分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108098163915M,北京中创信测科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108585834384X,北京中盈安信技术服务股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91350200737876795E,北京中科亿唐生态科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(24.483021, 118.184709)"
+高,missing_or_invalid_coordinate,C:91110105MAK2NN2Y4R,北京中科数联技术股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120118MAC673N90R,北京中科极知科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.939269, 116.497906)"
+高,coordinate_outside_region,C:91120111MA07G5RM61,北京中科洪安科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.984579, 116.41445)"
+高,coordinate_outside_region,C:91120118MAC66NQR6R,北京中能首链科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(40.079612, 116.227928)"
+高,missing_or_invalid_coordinate,C:91110106553105910T,北京中豪世纪科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91370100730668002D,北京中车智能装备有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(36.655235, 116.960918)"
+高,missing_or_invalid_coordinate,C:9111010176217164XA,北京中达金桥技术服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110106101181410B,北京丰凯换热器有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110114MAE5W84D5R,北京久言科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110117318087185U,北京云动时代网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108344383906B,北京云科凯创信息技术有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91110400MAG1279N2X,北京云迹科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110102101361358E,北京京仪椿树整流器有限责任公司,司马台总数据.xlsx,"判断区域=北京；坐标=(38.582908, 116.831835)"
+高,missing_or_invalid_coordinate,C:91110115MABWQ7250P,北京仪生堂生物制药有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108MA0074L691,北京众惠信创信息科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.04291, 115.852854)"
+高,missing_or_invalid_coordinate,C:91110111MAC99QQE7M,北京众签科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110105670595533X,北京众诚天合科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MAEWA4MX7E,北京优达盛科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101025858351768,北京伟泽测绘有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA01QTF39N,北京佰辰科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108565807282C,北京信联众成技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110106MADL9EDE41,北京健路网络科技有限责任公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91110102785537931F,北京六行君通新能源科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101136857650724,北京兰超服饰科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA01LJUJ0M,北京创新智源科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:9137050234464431XM,北京动力云图智能科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120222MA077KD92N,北京北极速星电子科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.825721, 116.303834)"
+高,missing_or_invalid_coordinate,C:91110114663737468H,北京医链科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110106699645717R,北京华凯世纪工程设备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108587705789X,北京华如科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA020FEL00,北京华物科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108101200087U,北京华瑞达测控技术有限责任公司,司马台总数据.xlsx,"判断区域=北京；坐标=(37.209293, 115.576886)"
+高,missing_or_invalid_coordinate,C:91110108799018892F,北京南北天地软件技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110106MA01QCJ623,北京南宇科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101125712390829,北京博信智联科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110111MA00CHT2XU,北京博创兴业科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110109660545559K,北京博文众客信息科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108057336736L,北京博然特电气自动化技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120111MAC621LJ73,北京博蓝普科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108699624190G,北京同影科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120116MA06QU2Q1L,北京同达利环保科技股份有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.903149, 116.245166)"
+高,missing_or_invalid_coordinate,C:91130104MA0A34J8XY,北京君恒保险公估有限责任公司河北分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120118MAC4G1T90J,北京启驰天华科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.907848, 116.288357)"
+高,coordinate_outside_region,C:91110108MA001AXBX4,北京嗖嗖快跑科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.127274, 117.739593)"
+高,coordinate_outside_region,C:91110108MA00CTMYX3,北京四方启点科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91370211MA3WG0C728,北京国信金网数科科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(35.948886, 120.187777)"
+高,missing_or_invalid_coordinate,C:91110108MA01XLDLX6,北京国士无双科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911103026000682443,北京国网电力技术股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110107MA01DH0N3X,北京国脉智联网络有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110115556880576C,北京圣劳伦斯散热器制造有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.806215, 118.144879)"
+高,coordinate_outside_region,C:911101087825015118,北京大唐高鸿数字科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,N:北京天沁春财务顾问中心,北京天沁春财务顾问中心,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110105700279882K,北京奥信建筑工程设备安装有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911101086343500612,北京奥技异电气技术研究所有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110116774702137F,北京奥邦新材料有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91110108MA00D0QQ6J,北京孝缘医院管理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120112055294149T,北京安录国际技术有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.925305, 116.196214)"
+高,missing_or_invalid_coordinate,C:91110113MA01RABQ5L,北京宋诚医疗科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101085906306853,北京小品科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA01B00G9E,北京小萝科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110118MA7FF8JLXE,北京展翊科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91410100MA9H1CA94B,北京崤云科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101157951472918,北京巨力康工程技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110106MACU30FP2P,北京康众时代医学研究发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110400MA029U0L1U,北京康养卫士健康科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108563646163X,北京开元智信通科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91230109MA1CMWRH82,北京微擎星空网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120222MA06CMQ977,北京微步九城科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.975995, 116.332332)"
+高,missing_or_invalid_coordinate,C:911101061022738353,北京德威利新能源科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911101085938098081,北京思前软件有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91110107589076381P,北京恒昌惠诚信息咨询有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110000569516597N,北京恒资时代创业投资股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA01ATLD18,北京慧博融信科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110112MAK1B2EK28,北京扶遥科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101053483297044,北京摩比埃科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110105MA01PXYL2A,北京敏学科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108774077191Q,北京数巨互动创新技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110113080516727E,北京数码视讯软件技术发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110400MA02MFDQ5C,北京文香信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:9111010877256341X4,北京新东方迅程网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110400MADRTFNW2W,北京日扬智能装备有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91110111MA7KNGNY1X,北京昊昆科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120103697431053C,北京明道光伏科技股份有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.779506, 116.522949)"
+高,missing_or_invalid_coordinate,C:91110302MA007GKH5L,北京易康盛世科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110400MADCG2QK35,北京易控智驾科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110111MAE3W07K80,北京星辉科创科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA01MQ3D4P,北京星闪世图科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110118MADJHBKC6N,北京晟珑科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110105582505825H,北京晟诚科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91410581MA9LNU7X4L,北京普丰新能环境科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(35.926855, 113.82351)"
+高,missing_or_invalid_coordinate,C:911101171029505764,北京普析通用仪器有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91310110MA1G92PG83,北京智悦行文化科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.298613, 121.51581)"
+高,coordinate_outside_region,C:911101010967649878,北京智扬北方国际教育科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(36.448342, 114.920942)"
+高,coordinate_outside_region,C:91110114739361760M,北京智能拓维技术研究所有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.291468, 117.396537)"
+高,missing_or_invalid_coordinate,C:9111011167663365XN,北京曦鸣威机械设备有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110400MADP04XL6T,北京木奇科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911101063272457123,北京柳学科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.69503, 118.162976)"
+高,missing_or_invalid_coordinate,C:91110108690036288W,北京正和之道科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110114686941832T,北京正达伟业科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91320594MA1XULBP47,北京永晟鑫合科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110105MAD2ND2B66,北京汉为科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110119MADKY8348R,北京汉行科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(38.971531, 116.228354)"
+高,coordinate_outside_region,C:911101147567367472,北京江海洋电气有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.362495, 117.88353)"
+高,coordinate_outside_region,C:91110114102686947A,北京沙河友联机械有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91110400MA04B5G49L,北京沣达科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120222MA06AKL21Q,北京泷涛能源科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.837374, 116.292983)"
+高,missing_or_invalid_coordinate,C:911101087906992148,北京洛斯达科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA00D2679J,北京浪潮数据技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110105344332922P,北京海识软件有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91110108MAE543FP75,北京深识科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108074173908Q,北京清控人居环境研究院有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110113MA02AJRW9W,北京清软云智科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.044263, 115.872568)"
+高,missing_or_invalid_coordinate,C:91110113MA0208EQ2Y,北京清软英泰信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA00B08X8K,北京澄星科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:9111010676504112XW,北京澳丰源科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA01F7KF9T,北京熠智科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110105558552090U,北京爱德佳创科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110105317985434T,北京爱斯即膜原生植物科技开发有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91110105MA008CKM05,北京物灵科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110105MA01AWAQ6D,北京环拓科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110112MA01KYXMXM,北京玲珑塔科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA01DEXD32,北京电研华源电力技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA01RGU260,北京疆泰科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91370212MA3NWE8D3U,北京盛世影云科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(36.396217, 120.53348)"
+高,missing_or_invalid_coordinate,C:91110111MAE7AA57XG,北京直线巴士科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108MA006G775T,北京眼神科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.021082, 116.112865)"
+高,missing_or_invalid_coordinate,C:91110108MA01GGWW4L,北京睿安宏信科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MADJTRF564,北京知存科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101085751685849,北京神州付科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:9111010839774164XF,北京神州安盾科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110107MA7MRJC64P,北京立达信安科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101085906803592,北京米天下科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110116600096376R,北京米道斯医疗器械有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA04G14KXU,北京纵横方略科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101087667512545,北京网康科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110116MA01HRUY39,北京耀世恒泽科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101086766404898,北京联泰集群科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108MA01QWG25D,北京航云物联信息技术有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91110115102169229E,北京航天卓越精密机械制造有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108758241027M,北京航天数据股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.052729, 115.941702)"
+高,coordinate_outside_region,C:91230109MA7BMT578A,北京航荣科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(45.74625, 126.670386)"
+高,missing_or_invalid_coordinate,C:91110107MA04C3DR85,北京艺升医疗科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110105MA00E9BF0A,北京芝士科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91310000MAC908105F,北京芯东来半导体科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110116MA018WY80A,北京若海朝医药科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110116MAE76CJ216,北京荣创兴业科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110114MA01QQLW6T,北京蓝光讯智科技有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110101MA01JPQ051,北京蔚行科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110106741574714D,北京观滔高科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91110105MA01GW5L6B,北京课程帮科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA00GP7W9W,北京贝能科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110117MAKEC2KR5M,北京车礼科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110115MADD36J9XC,北京轩林科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110105MA04GKN172,北京辰尧科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108685756096T,北京达美盛软件股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(38.996668, 117.344719)"
+高,missing_or_invalid_coordinate,C:91110105MA01WTBP6Y,北京进化者机器人科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110119MACCPD4W91,北京途宇科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110105661582036H,北京邦业管理咨询有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120118MAC6G6CR5C,北京金池天启科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(40.047751, 116.591839)"
+高,missing_or_invalid_coordinate,C:91110108MA01GWFC67,北京金汤科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110114593894504T,北京金科吉瑞科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110102MA001UMB4D,北京金蓄专利代理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:9111010878551641XP,北京金路标科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110105MACC704W5H,北京金铭瑞通科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110111MA01R2BU64,北京铁咨信息技术有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110105MA01J9LJ5H,北京铸力融媒体信息技术有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110112MAETF33U3W,北京雄豆生物科技发展有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.042322, 115.873481)"
+高,missing_or_invalid_coordinate,C:91110105717784842D,北京靓诺派时装有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110112MAEH5T9T92,北京靖川科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110112MA01HP711B,北京韬盛科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110118MAEEB42P33,北京鸿瑞祥科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110105MA0186RD6Q,北京黑帆科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110113MADDKT9244,北京鼎翎科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91330324MA29A0GW7X,北高阀门有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(28.05031, 120.63164)"
+高,coordinate_outside_region,C:91133100MA0F8FM3X9,华云（河北雄安）大数据科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(34.643325, 112.403909)"
+高,coordinate_outside_region,C:911308027314137573,华北地勘生态资源监测中心（河北）有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91131081718375311P,华洋线缆集团有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110112MA01WYL410,华湘金诺科技发展有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.052729, 115.941702)"
+高,missing_or_invalid_coordinate,C:91130722692068259E,华源电力有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110000625905205U,华能国际电力股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.025006, 115.963736)"
+高,coordinate_outside_region,C:91130481MAD20HF553,华能武安绿色能源有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110000710935660T,华能集团技术创新中心有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.025006, 115.963736)"
+高,coordinate_outside_region,C:9113000010436487XC,华讯方舟股份有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(22.526531, 113.941189)"
+高,missing_or_invalid_coordinate,C:911301005576756975,卓信通信股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110116MA00A5X3X0,南京中新华源科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(32.153274, 118.897022)"
+高,coordinate_outside_region,C:911101053397444630,南京优安安全技术研究院有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(32.128074, 118.912892)"
+高,coordinate_outside_region,C:91130629MADCG8GY0Q,南京灯酉新能源科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(32.024069, 118.605664)"
+高,coordinate_outside_region,C:91110108MA01924914,南京益财达科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(32.036439, 118.641963)"
+高,missing_or_invalid_coordinate,C:91110106MABMPMRW72,南京衡安科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110116MA0177W33K,博码信息技术（北京）有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110105327125470H,合芯科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(23.106402, 113.459749)"
+高,missing_or_invalid_coordinate,C:91110108MAD26QR916,启迪数字科技（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91330201MA2CHBLLXE,和利时卡优倍科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(29.852057, 121.631996)"
+高,coordinate_outside_region,C:91130204061694077C,唐山世宁科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130200MA0CR9114Q,唐山凯歌儿实业有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911302935909750937,唐山大自然环境评估有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(24.328548, 102.524773)"
+高,coordinate_outside_region,C:911302007666054173,唐山市双赢实业集团有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:911302217898392087,唐山市富城建筑规划设计有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130293576756951K,唐山市成继科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130293601236000R,唐山市磁石矿冶科贸有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(32.083862, 121.00445)"
+高,coordinate_outside_region,C:911302006677220603,唐山开滦炭素化工有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130227MA0DW8EF71,唐山林坤林业服务有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(28.729189, 105.070011)"
+高,coordinate_outside_region,C:91130294MA0DT5B94C,唐山港信科技发展有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130293784068926G,唐山现代工控技术有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(22.834085, 108.29494)"
+高,missing_or_invalid_coordinate,C:911302001047928234,唐山钢铁集团有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA04CGYH5G,商域（北京）国际科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110114571220234R,四川新航钛科技有限公司北京分公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91410100MA47E04M2L,固高创新（北京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91620103091183702H,国华卫星数据科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130324MA0DLWFH5Y,国友线缆集团有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130102MA0E05LM71,国器重工机械制造河北有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(25.806126, 113.149747)"
+高,missing_or_invalid_coordinate,C:91110102MAC79DXH9M,国家电投集团综合智慧能源科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120118MA07F0T422,国家管网集团工程技术创新有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91131022MA07QWPJ73,国环绿洲（固安）环境科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110108675715688R,国网汇通金财（北京）信息科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.030796, 115.94766)"
+高,coordinate_outside_region,C:91120116792515220J,埃赫曼合金材料（天津）有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:911100007109344305,大有数字资源有限责任公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91120116MA07B9L79X,天一（天津）智能科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91120118MA06GADC8G,天意溯源（天津）消防工程检测有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120105MAC49MTJ1E,天津世纪鼎机械科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110105633750565K,天津东方维新科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.227293, 117.129182)"
+高,missing_or_invalid_coordinate,C:91120222MADJ8Y5Y49,天津中脉科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120111MA06Q4XA7K,天津中薇建设工程咨询有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91120112MACHYMHE2J,天津仁聚咨询有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91130203MAC9NRDU42,天津仨合科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:9112010330040113X9,天津凤凰星网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:9112022206402428XP,天津创融科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911101145731913774,天津北秦安全技术有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.084495, 117.345235)"
+高,missing_or_invalid_coordinate,C:9112011667595702XU,天津国信资产评估有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110113765502854K,天津大起空调有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.259684, 116.923554)"
+高,missing_or_invalid_coordinate,C:91120116MA06HKET6A,天津天地伟业数码科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:9112022274403350XC,天津奥特曼电子有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91120104MA05L3UK9T,天津家骏嘉和科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120116MA06R53963,天津尚嘉信通科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120116600523518A,天津尚赫保健用品有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120112687723765Q,天津尼瑞艾特测控技术有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.89846, 116.420727)"
+高,missing_or_invalid_coordinate,C:91120111MABN0UF213,天津巨澄信息咨询有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120112MAK97UBL3R,天津市世椿智能装备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120111MA05L07008,天津市众创锐迪科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120112058712502T,天津市冠誉自动化设备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120106MA05J7FT72,天津市栗果科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:911201032388005935,天津市盛泰物业管理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911202245897646006,天津市顶酷乐器有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(19.106275, 108.671902)"
+高,missing_or_invalid_coordinate,C:91130944MAEW27Q90J,天津广正建设项目咨询股份有限公司沧州分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120112MA06X2K569,天津康源环保科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120112300512446N,天津德起电子科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120111675955497Y,天津德通电气有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120116660300455H,天津惠蓬海洋工程有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120116MA06CRC672,天津明喆保安服务有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(45.148829, 124.816713)"
+高,missing_or_invalid_coordinate,C:91120112052058669F,天津易华录信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120113055277306D,天津水泥工业设计研究院有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911201025565376710,天津津宜供热有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120222MA07DPQJ3W,天津海马科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120223569326400D,天津源美脚手架有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.321137, 119.088515)"
+高,missing_or_invalid_coordinate,C:91120116328554605P,天津滋源环保科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120118MAD6TB8W7N,天津澜德智能机器人有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120113MACN745270,天津灵犀一点通电子科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120110MAELH8HJXY,天津犀牛鸟信息技术有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91210211MA0QDM9A08,天津益顺健生物科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.04457, 121.80919)"
+高,coordinate_outside_region,C:911201026630671263,天津盛世伟信科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(35.034672, 118.366965)"
+高,missing_or_invalid_coordinate,C:91120104MA0778193Y,天津福仕德科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120116569319171B,天津精一科技发展股份有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(36.910774, 114.903832)"
+高,coordinate_outside_region,C:91110108MA01BC7F8Q,天津红海宁舟科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.002374, 117.726485)"
+高,coordinate_outside_region,C:91120113MA05J0MY3D,天津艾斯特姆机械设备有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130293MA0G4B1U5K,天津蓝众科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91310118MA1JNTMP5G,天津设序科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(31.010772, 121.367884)"
+高,coordinate_outside_region,C:91120118MA07EY2G6K,天津运友智慧物流有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:911201047548355656,天津长瑞华通科技发展有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91120118MA06XUCX03,天津集至智慧物流有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(40.621327, 109.95315)"
+高,coordinate_outside_region,C:91110114593858861N,天津静华科技发展有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.086294, 117.097519)"
+高,coordinate_outside_region,C:91120116MACTQXG76E,天津麦聚科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.083125, 115.854872)"
+高,coordinate_outside_region,C:911201160731389912,天津龙腾智慧海洋科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.898131, 116.420647)"
+高,missing_or_invalid_coordinate,C:91110108558585570E,奇安信人工智能科技（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91320115MA25PX1J3E,奥特（北京）智能制造有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.777635, 118.835822)"
+高,coordinate_outside_region,C:91130200059414240H,奥立电子（中国）有限责任公司,司马台总数据.xlsx,"判断区域=河北；坐标=(22.548457, 114.121779)"
+高,coordinate_outside_region,C:91130533MAK5GPT67H,威县冠鑫福机械制造有限责任公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110108668442028U,学科网（北京）股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110106741586598W,宁波福特明科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(29.955771, 121.056668)"
+高,missing_or_invalid_coordinate,C:911101080612903635,安一恒通（北京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120116MA06LJWU81,宝石花人力资源有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(34.322767, 108.948245)"
+高,coordinate_outside_region,C:91110112MA00DDJM4X,宝石花医药科技（北京）有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(38.315705, 116.870165)"
+高,missing_or_invalid_coordinate,C:91130700106181022B,宣化钢铁集团有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130823MAE5GP0U8P,平泉中正法律咨询服务有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130682MA0FCR3337,广奥厨具有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(46.659659, 131.163081)"
+高,coordinate_outside_region,C:91130629MAEDYA4H1X,广州百仟萃生物科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(22.811644, 113.49861)"
+高,coordinate_outside_region,C:91110105753517311L,康桥保险经纪有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(36.65519, 116.996616)"
+高,missing_or_invalid_coordinate,C:911101085977182414,建元国通股权投资基金管理（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911101080785979945,开源网安技术有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(30.676302, 114.131186)"
+高,coordinate_outside_region,C:91130703MADNXMQA99,张家口星链网络科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130729MAD0PQUC7A,张家口锋敏网络科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130125359038072M,强大泵业集团行唐泵业有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91131003MA7FBHB93L,微测科技（江苏）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911101173552297607,恒辉信达技术有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(28.214052, 112.891572)"
+高,coordinate_outside_region,C:91110000101717000C,招商局公路网络科技控股股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.021636, 117.814017)"
+高,missing_or_invalid_coordinate,C:91110228344252973C,新岳通达（北京）科技开发有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110107306576643X,无锡车联天下智能科技股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.516867, 120.338019)"
+高,missing_or_invalid_coordinate,C:91110105MAEA9F669M,明锐思成（北京）信息科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911101086883662373,智慧眼科技股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(28.12271, 112.88566)"
+高,missing_or_invalid_coordinate,C:91120106MA06LQGT7L,智鸿（天津）供应链管理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108MADBCPFQ2E,杭州深度原理科技有限责任公司,司马台总数据.xlsx,"判断区域=北京；坐标=(30.207859, 120.223298)"
+高,coordinate_outside_region,C:91110114MA01Q6FQ42,极豪科技（天津）股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.109215, 117.509732)"
+高,coordinate_outside_region,C:91110000634398030U,柳工（常州）矿山机械有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.670957, 119.907545)"
+高,missing_or_invalid_coordinate,C:91110108MACJJW429D,标贝（北京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120116MACLB5P94G,桐砚（天津）新材料有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:911101123552980881,梧桐部落（北京）股权投资管理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110102696323165L,正隆保险经纪股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(30.459767, 114.420216)"
+高,missing_or_invalid_coordinate,C:91130100084969280F,江泰保险经纪股份有限公司石家庄分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:9111010859231482XL,江苏京风新能源有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(32.028769, 119.910179)"
+高,coordinate_outside_region,C:911101080673494187,江苏奥易克斯汽车电子科技股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(32.083616, 120.820311)"
+高,coordinate_outside_region,C:9111011173821198X2,江苏极易化学集团有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(34.688228, 116.586545)"
+高,coordinate_outside_region,C:91110108MA009TUP0W,江苏深蓝航天有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.537715, 120.357726)"
+高,coordinate_outside_region,C:91110108397914168P,江苏运满满信息科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.971482, 118.77553)"
+高,missing_or_invalid_coordinate,C:91130104MAK7YP02XT,沈阳汇金商务咨询服务有限公司石家庄分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911309033988573459,沧州市沧房保安服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130925MABNU6BAXB,沧州永道财务服务有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(36.601185, 109.499553)"
+高,coordinate_outside_region,C:91130911073743649W,沧州渤海新区互益化工有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130203MA09D79P7E,沭阳腾之翼网络科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(34.107304, 118.818602)"
+高,coordinate_outside_region,C:91130900590992870G,河北三剑消防设施检测有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91131082721672202B,河北三河燕达实业集团有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130629MADPWE1F58,河北中兴会计师事务所有限责任公司河北雄安分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130535MAK63T5A82,河北中甯价格评估有限公司临西县分公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130903MA0ECP5PXQ,河北云踪信息技术有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130405MAKHQ64Y03,河北亿辰安全技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91510107MA6CL5W86K,河北仓鸣价格鉴证评估有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(30.781362, 103.85929)"
+高,coordinate_outside_region,C:91130632MAD5EDN46F,河北勤甘科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130502MA0DFMPP4L,河北千美保险公估有限公司邢台分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130101760331208G,河北华安科技开发有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130602MA080T8G5K,河北博远招标代理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:912114215646238369,河北厚能能源设备股份有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(41.835441, 123.42944)"
+高,missing_or_invalid_coordinate,C:91130105MABW1W3B8T,河北君诺保安服务有限公司石家庄分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911309843081278177,河北嘉泰化工科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130100788662703T,河北基业创研科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130611MA0CPM0UX5,河北天德实业集团有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(34.650799, 112.457752)"
+高,missing_or_invalid_coordinate,C:91130182MACK63AR20,河北广友商贸有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91130481MA07MK7Y0D,河北恒一检测科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91130102MA7ERFHK2K,河北恒晟工程项目管理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91130100MA07T33680,河北昊嘉空调设备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91130405MAKK3PLBXH,河北昊扬安全技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130927MA0F3E8L8A,河北明通通信器材有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130104MA08PE9N4T,河北朋来工程项目管理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91131127MA0FN8TR31,河北本初环境工程有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130531MAKAHE1188,河北槿禾建筑有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91131082MAD1EA582H,河北瑶圃专用设备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911301933080452722,河北盛鹏化工有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:911301005673687380,河北禄发科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91130125MA0CGURN7E,河北给力保险公估有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130126694683538C,河北维嘉无纺布股份有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(39.722373, 75.271184)"
+高,missing_or_invalid_coordinate,C:91130402MA0EQL4M4J,河北联川电气有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130293692076873A,河北荣贤智能科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130922697581756L,河北融力通达机电有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91131024065740456N,河北鑫城电气设备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130632MAD5YGN6XA,河北钛闻科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130104MA07PWLM0E,河北锦川质检技术服务有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110114MA028MT23R,河北雄安九援科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.106257, 115.854039)"
+高,coordinate_outside_region,C:91110111MA01DMUY8L,河北雄安五维智联科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130629MAE1X68A2W,河北雄安博佰科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130629MAD7E4434U,河北雄安康虹科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130629MAE0BEC23A,河北雄安鲁程信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130403MA07LAC016,河北高翔地理信息技术服务有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130000MA0E5M0N5J,河北高速公路集团有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110115MA01J4U62Y,法研（无锡）科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.57674, 120.300958)"
+高,missing_or_invalid_coordinate,C:91130606MACP6NWJ6N,泾清项目管理有限公司保定分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91440300MA5G24DN30,洞见科技（雄安）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120111MA069XM522,津鼎润智能装备（天津）有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110105357967759L,浙江史河科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(29.973072, 122.328103)"
+高,coordinate_outside_region,C:91120222MA06AHXE8F,浙江泰科数联信息技术有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(30.276246, 120.131903)"
+高,coordinate_outside_region,C:91120104MA05L3MK8M,浙江网安卫谷科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(30.308726, 120.035675)"
+高,coordinate_outside_region,C:91130924MA0A7QY79U,海兴京兴新能源有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91320211MA22NKXU8R,海瑞空间（北京）信息科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.54716, 120.23809)"
+高,missing_or_invalid_coordinate,C:91110105MA01J7FC4D,深圳万顺叫车云信息技术有限公司北京信息技术分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91131082MACUYHEFXT,深圳琪物智能科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130982MA0GEDUB4M,深圳群伦项目管理有限公司沧州分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108MA01A2L79D,深圳致星科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(22.534064, 113.947488)"
+高,coordinate_outside_region,C:91110108MA001HHP18,湖南天河国云科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(28.249804, 113.173356)"
+高,missing_or_invalid_coordinate,C:91130100788045828Q,溯源保险公估有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108MA01QNUH2N,灵犀科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(36.101767, 120.095262)"
+高,coordinate_outside_region,C:91110108MA00115D3C,特微乐行（广州）技术有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(23.167499, 113.402008)"
+高,missing_or_invalid_coordinate,C:91110112699556220T,特瑞斯（北京）流体科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911101086950083901,玉田县利佩电子科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.656714, 117.67222)"
+高,coordinate_outside_region,C:91110108MA00D16W05,珠海微度芯创科技有限责任公司,司马台总数据.xlsx,"判断区域=北京；坐标=(22.345392, 113.584672)"
+高,missing_or_invalid_coordinate,C:91130302MA0G60TN7X,瑞和安惠项目管理集团有限公司秦皇岛分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91120116MA82R47F99,瑞焰（天津）安全顾问有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120116MA076G1B6Q,申采智链（北京）科技发展有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.954188, 116.373708)"
+高,coordinate_outside_region,C:9113102308375523XM,百川燃气热电集团有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(40.735519, 120.893786)"
+高,coordinate_outside_region,C:91120116086564770T,盘古网络集团有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130105084981984H,石家庄大象电子科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130104MADXDDG921,石家庄安盾保安服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130101750264574L,石家庄宏大测绘有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130185MAD11EXR64,石家庄市广科通信设备科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130100104406152N,石家庄市油漆厂,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130185MA0DXJ2J91,石家庄微晶恒科电子科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130102329719918E,石家庄润益医疗器械科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:911101080649340725,神旗数码有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(43.795491, 125.376819)"
+高,coordinate_outside_region,C:911303013477153473,秦皇岛清宸环境检测技术有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:91130823MAKK53UG96,红昕国际项目管理有限公司平泉市分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911201167178673064,纬湃汽车电子（天津）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110000110052522M,经纬纺织机械股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(37.81354, 112.58355)"
+高,coordinate_outside_region,C:911100005674036014,联动优势支付有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(36.1062, 120.454685)"
+高,missing_or_invalid_coordinate,C:91210112MA10NWCJ3L,联鲸科技（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110114592394356P,聚梦创新（北京）软件技术有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110113MA01RJ891H,艾嘉智慧能源科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(38.830769, 115.721842)"
+高,coordinate_outside_region,C:91110108553123449B,芯联达信息科技（北京）股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110105306514274K,苏州恒臻星科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(31.620697, 121.206389)"
+高,coordinate_outside_region,C:91110105097946379F,苏州科林利康医药科技股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:9113040060115569X8,藏格矿业股份有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(36.39186, 94.90348)"
+高,missing_or_invalid_coordinate,C:91110108MA00E6P76E,行为科技（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91131102074885876A,衡水慧阳工程咨询有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110108MA00DDBX3J,西藏海豚信息科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(29.636256, 91.019689)"
+高,coordinate_outside_region,C:91110101685758913M,视联动力信息技术股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(29.552642, 106.568955)"
+高,missing_or_invalid_coordinate,C:91130609MA0CGBWH8E,诺博橡胶制品有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91120110MA06CHU135,诺威生态科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(37.467722, 118.688861)"
+高,coordinate_outside_region,C:91110112678751510H,诺思格（北京）医药科技股份有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91110107633708834E,赛昇信息技术研究院江苏有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(32.033273, 118.730372)"
+高,coordinate_outside_region,C:91110108MA01TY9J1P,超级视线科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(40.749825, 114.93528)"
+高,coordinate_outside_region,C:91120118MA05LRQA7J,趣街（天津）科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91120116MA05XW7W5W,运达（无锡）物流科技有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(31.471676, 120.275412)"
+高,missing_or_invalid_coordinate,C:91110115MAC4GC3L3L,远森制药（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911101060766185954,通号工程局集团北京研究设计实验中心有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130526661064458W,邢台华电数控设备制造有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(23.443604, 116.738009)"
+高,missing_or_invalid_coordinate,C:91130502MA0G4NFYXM,邢台市水尚网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130502MADN1DQ246,邢台诚鑫电子商务有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91210800MA10QXP938,邯郸善为生物科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(40.651075, 122.179724)"
+高,missing_or_invalid_coordinate,C:91130435MAC9H3D27H,邯郸市宇浩金属制品有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130402MA0G3XJX9D,邯郸市昂迈电气科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91130434MAE93GB6XX,邯郸杰智自控设备有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,coordinate_outside_region,C:91500000MA60RDDA5G,重庆睿行电子科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(29.682014, 106.788945)"
+高,missing_or_invalid_coordinate,C:911101015694738658,金智东博（北京）教育科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:91110108MA00ACKU7U,金石易服（北京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:911101080990276837,金联创网络科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(-1.0, -1.0)"
+高,missing_or_invalid_coordinate,C:911301005689286886,金联安保险经纪（北京）有限公司河北分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911101050741956051,鑫马龙江（北京）汽车服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,N:陕县中联科技有限公司,陕县中联科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,missing_or_invalid_coordinate,C:911308250759501586,隆化县金盾保安服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91110115MA01WG3R6T,雄安三新集团有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(38.942828, 115.933219)"
+高,coordinate_outside_region,C:91133100MADW1WCM9L,雄安数智盈动科技有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(34.622191, 112.388135)"
+高,coordinate_outside_region,C:91370500MA3P38AJ22,雄安维点技术有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(34.622191, 112.388135)"
+高,coordinate_outside_region,C:91110106MAE9FYDU37,青叶海棠（北京）科技有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(39.021082, 116.112865)"
+高,coordinate_outside_region,C:91110106688383141Q,青岛博文广成信息安全技术有限公司,司马台总数据.xlsx,"判断区域=北京；坐标=(36.067418, 120.389639)"
+高,coordinate_outside_region,C:91120105MA06FWEHXU,青岛西科斯海洋技术有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(36.346753, 120.678541)"
+高,coordinate_outside_region,C:91120118328676979R,首约科技集团股份有限公司,司马台总数据.xlsx,"判断区域=天津；坐标=(39.944371, 116.469486)"
+高,missing_or_invalid_coordinate,C:91110106MAK6YKH66D,鲲鹏工业（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,coordinate_outside_region,C:91130983078789339D,黄骅市吉能达运输有限公司,司马台总数据.xlsx,"判断区域=河北；坐标=(-1.0, -1.0)"
+高,no_usable_coordinate,C:911100001000034019,中国铜业有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9111000010001002XD,中国华能集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110000100015058K,中国长江三峡集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110000101717000C,招商局公路网络科技控股股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110000110052522M,经纬纺织机械股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110000400000034B,中国化工信息中心有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911100005674036014,联动优势支付有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110000569516597N,北京恒资时代创业投资股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110000625905205U,华能国际电力股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911100006259115094,中外运—敦豪国际航空快件有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110000634398030U,柳工（常州）矿山机械有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110000710926094P,中国石油化工股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9111000071092892XF,三峡高科信息技术有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911100007109293322,中信机电制造集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110000710933753A,中海石油炼化有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911100007109344305,大有数字资源有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110000710935660T,华能集团技术创新中心有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110000780236195L,净雅食品股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101010967649878,北京智扬北方国际教育科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9111010135127031XU,中通服供应链股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101015694738658,金智东博（北京）教育科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110101685758913M,视联动力信息技术股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9111010176217164XA,北京中达金桥技术服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110101MA01JPQ051,北京蔚行科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110102101361358E,北京京仪椿树整流器有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101025858351768,北京伟泽测绘有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110102696323165L,正隆保险经纪股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110102785537931F,北京六行君通新能源科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110102MA001UMB4D,北京金蓄专利代理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110102MAC79DXH9M,国家电投集团综合智慧能源科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101050741956051,鑫马龙江（北京）汽车服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105097946379F,苏州科林利康医药科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101051011624040,中远海运航空货运代理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105306514274K,苏州恒臻星科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105317985434T,北京爱斯即膜原生植物科技开发有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105327125470H,合芯科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105329591029H,中国惠普有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101053397444630,南京优安安全技术研究院有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105344332922P,北京海识软件有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101053483297044,北京摩比埃科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105357967759L,浙江史河科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105558552090U,北京爱德佳创科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105582505825H,北京晟诚科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105633750565K,天津东方维新科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105661582036H,北京邦业管理咨询有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105670595533X,北京众诚天合科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105700279882K,北京奥信建筑工程设备安装有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105717784842D,北京靓诺派时装有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105753517311L,康桥保险经纪有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MA008CKM05,北京物灵科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MA009W6G2P,中网真如信息科技（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MA00E9BF0A,北京芝士科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MA0186RD6Q,北京黑帆科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MA01AWAQ6D,北京环拓科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MA01CETR7N,北交智慧科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MA01GW5L6B,北京课程帮科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MA01J7FC4D,深圳万顺叫车云信息技术有限公司北京信息技术分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MA01J9LJ5H,北京铸力融媒体信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MA01PLHN84,北京一手科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MA01PXYL2A,北京敏学科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MA01WTBP6Y,北京进化者机器人科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MA04GKN172,北京辰尧科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MACC704W5H,北京金铭瑞通科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MAD2ND2B66,北京汉为科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MAD9PGBJ4R,劳雷（北京）仪器有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MAEA9F669M,明锐思成（北京）信息科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110105MAK2NN2Y4R,北京中科数联技术股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101060766185954,通号工程局集团北京研究设计实验中心有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110106101181410B,北京丰凯换热器有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101061022738353,北京德威利新能源科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101063272457123,北京柳学科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110106553105910T,北京中豪世纪科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110106688383141Q,青岛博文广成信息安全技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110106699645717R,北京华凯世纪工程设备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110106741574714D,北京观滔高科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110106741586598W,宁波福特明科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9111010676504112XW,北京澳丰源科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110106MA01E7AT4Y,上海芯安能众微电子技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110106MA01QCJ623,北京南宇科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110106MABMPMRW72,南京衡安科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110106MACU30FP2P,北京康众时代医学研究发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110106MADL9EDE41,北京健路网络科技有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110106MAE9FYDU37,青叶海棠（北京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110106MAK6YKH66D,鲲鹏工业（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110107306576643X,无锡车联天下智能科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110107589076381P,北京恒昌惠诚信息咨询有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110107633708834E,赛昇信息技术研究院江苏有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110107MA018CCA2P,中化明达科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110107MA01DH0N3X,北京国脉智联网络有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110107MA04C3DR85,北京艺升医疗科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110107MA7MRJC64P,北京立达信安科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108053647238C,优效（北京）医学研究有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108057336736L,北京博然特电气自动化技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101080612903635,安一恒通（北京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101080628135175,元素数智（北京）信息技术有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101080649340725,神旗数码有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101080673494187,江苏奥易克斯汽车电子科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108074173908Q,北京清控人居环境研究院有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101080785979945,开源网安技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108085476090U,中科安永科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108098163915M,北京中创信测科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101080990276837,金联创网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108101200087U,北京华瑞达测控技术有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108327149368B,初心数据科技（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108344383906B,北京云科凯创信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9111010839774164XF,北京神州安盾科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108397914168P,江苏运满满信息科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108553123449B,芯联达信息科技（北京）股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108558585570E,奇安信人工智能科技（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108563646163X,北京开元智信通科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108565807282C,北京信联众成技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101085751685849,北京神州付科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108585834384X,北京中盈安信技术服务股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108587705789X,北京华如科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101085906306853,北京小品科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101085906803592,北京米天下科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9111010859231482XL,江苏京风新能源有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101085938098081,北京思前软件有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101085977182414,建元国通股权投资基金管理（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101086343500612,北京奥技异电气技术研究所有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101086615891075,北京万向新元科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108668442028U,学科网（北京）股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108675715688R,国网汇通金财（北京）信息科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101086766404898,北京联泰集群科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108685756096T,北京达美盛软件股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101086883662373,智慧眼科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108690030118L,中科声龙科技发展（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108690036288W,北京正和之道科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108694955679X,中航捷锐（西安）光电技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101086950083901,玉田县利佩电子科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108699624190G,北京同影科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108717869336Y,中盈优创资讯科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108758241027M,北京航天数据股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101087667512545,北京网康科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9111010877256341X4,北京新东方迅程网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108774077191Q,北京数巨互动创新技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101087825015118,北京大唐高鸿数字科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9111010878551641XP,北京金路标科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101087906992148,北京洛斯达科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108799018892F,北京南北天地软件技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA00115D3C,特微乐行（广州）技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA001AXBX4,北京嗖嗖快跑科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA001CP39A,上海诚联卓效数字科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA001HHP18,湖南天河国云科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA0068GY1F,上海思朗科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA006G775T,北京眼神科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA0074L691,北京众惠信创信息科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA009TUP0W,江苏深蓝航天有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA00ACKU7U,金石易服（北京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA00B08X8K,北京澄星科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA00CTMYX3,北京四方启点科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA00D0QQ6J,北京孝缘医院管理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA00D16W05,珠海微度芯创科技有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA00D2679J,北京浪潮数据技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA00DDBX3J,西藏海豚信息科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA00E6P76E,行为科技（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA00FU9T5Y,云起技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA00GP7W9W,北京贝能科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA017FWG12,中国石油工程建设有限公司北京设计分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01924914,南京益财达科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01A2L79D,深圳致星科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01AMLY4Y,中科物栖（南京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01ATLD18,北京慧博融信科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01B00G9E,北京小萝科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01BC7F8Q,天津红海宁舟科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01DEXD32,北京电研华源电力技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01F7KF9T,北京熠智科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01FJ925P,北京一本科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01GGWW4L,北京睿安宏信科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01GWFC67,北京金汤科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01LJUJ0M,北京创新智源科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01MQ3D4P,北京星闪世图科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01QNUH2N,灵犀科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01QTF39N,北京佰辰科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01QWG25D,北京航云物联信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01RGU260,北京疆泰科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01TY9J1P,超级视线科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA01XLDLX6,北京国士无双科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA020FEL00,北京华物科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA04CGYH5G,商域（北京）国际科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MA04G14KXU,北京纵横方略科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MACB21993D,京财财（北京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MACJJW429D,标贝（北京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MAD26QR916,启迪数字科技（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MADBCPFQ2E,杭州深度原理科技有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MADJTRF564,北京知存科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MADLWCXP1D,北京世纪云安新能源有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MAE543FP75,北京深识科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110108MAEWA4MX7E,北京优达盛科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110109660545559K,北京博文众客信息科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110109MABW1XGC1Q,中化学中科环境科技（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9111011167663365XN,北京曦鸣威机械设备有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9111011173821198X2,江苏极易化学集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110111752199411U,北京上德时代自动化工程有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110111MA00CHT2XU,北京博创兴业科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110111MA01DMUY8L,河北雄安五维智联科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110111MA01R2BU64,北京铁咨信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110111MA7KNGNY1X,北京昊昆科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110111MAC99QQE7M,北京众签科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110111MAE3W07K80,北京星辉科创科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110111MAE7AA57XG,北京直线巴士科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101123552980881,梧桐部落（北京）股权投资管理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101125712390829,北京博信智联科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110112678751510H,诺思格（北京）医药科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110112699556220T,特瑞斯（北京）流体科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110112MA00DDJM4X,宝石花医药科技（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110112MA01HP711B,北京韬盛科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110112MA01KYXMXM,北京玲珑塔科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110112MA01WYL410,华湘金诺科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110112MAEH5T9T92,北京靖川科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110112MAETF33U3W,北京雄豆生物科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110112MAK1B2EK28,北京扶遥科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110113080516727E,北京数码视讯软件技术发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101136857650724,北京兰超服饰科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110113765502854K,天津大起空调有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110113MA01RABQ5L,北京宋诚医疗科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110113MA01RJ891H,艾嘉智慧能源科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110113MA0208EQ2Y,北京清软英泰信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110113MA02AJRW9W,北京清软云智科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110113MADDKT9244,北京鼎翎科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114102686947A,北京沙河友联机械有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114571220234R,四川新航钛科技有限公司北京分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101145731913774,天津北秦安全技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114592394356P,聚梦创新（北京）软件技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114593858861N,天津静华科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114593894504T,北京金科吉瑞科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114663737468H,北京医链科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114686941832T,北京正达伟业科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114739361760M,北京智能拓维技术研究所有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101147567367472,北京江海洋电气有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101147649695168,中国移动通信集团终端有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114MA01Q6FQ42,极豪科技（天津）股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114MA01QQLW6T,北京蓝光讯智科技有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114MA028MT23R,河北雄安九援科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114MACJYB765X,先进计算（天津）信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114MAE5W84D5R,北京久言科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110114MAEFW6FQ5Y,东之丽新材料（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110115102169229E,北京航天卓越精密机械制造有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110115556880576C,北京圣劳伦斯散热器制造有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101157951472918,北京巨力康工程技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110115MA01J4U62Y,法研（无锡）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110115MA01WG3R6T,雄安三新集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110115MA02MAUU2R,中确国际项目管理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110115MA04DEQQ8C,中中（北京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110115MA04F6MH8R,中节能大数据有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110115MABWQ7250P,北京仪生堂生物制药有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110115MAC4GC3L3L,远森制药（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110115MADD36J9XC,北京轩林科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110116600096376R,北京米道斯医疗器械有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110116774702137F,北京奥邦新材料有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110116MA00A5X3X0,南京中新华源科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110116MA0177W33K,博码信息技术（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110116MA018WY80A,北京若海朝医药科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110116MA01HRUY39,北京耀世恒泽科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110116MAE76CJ216,北京荣创兴业科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101171029505764,北京普析通用仪器有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110117318087185U,北京云动时代网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911101173552297607,恒辉信达技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110117MAKEC2KR5M,北京车礼科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110118MA7FF8JLXE,北京展翊科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110118MADJHBKC6N,北京晟珑科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110118MAEEB42P33,北京鸿瑞祥科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110119MACCPD4W91,北京途宇科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110119MADKY8348R,北京汉行科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110228344252973C,新岳通达（北京）科技开发有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911103026000682443,北京国网电力技术股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110302MA007GKH5L,北京易康盛世科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110400MA029U0L1U,北京康养卫士健康科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110400MA02MFDQ5C,北京文香信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110400MA04B5G49L,北京沣达科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110400MADCG2QK35,北京易控智驾科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110400MADP04XL6T,北京木奇科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110400MADRTFNW2W,北京日扬智能装备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91110400MAG1279N2X,北京云迹科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911201025565376710,天津津宜供热有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911201026630671263,天津盛世伟信科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911201032388005935,天津市盛泰物业管理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9112010330040113X9,天津凤凰星网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120103697431053C,北京明道光伏科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911201047548355656,天津长瑞华通科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120104MA05L3MK8M,浙江网安卫谷科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120104MA05L3UK9T,天津家骏嘉和科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120104MA0778193Y,天津福仕德科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120105MA06FWEHXU,青岛西科斯海洋技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120105MAC49MTJ1E,天津世纪鼎机械科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120106MA05J7FT72,天津市栗果科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120106MA06LQGT7L,智鸿（天津）供应链管理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120110MA06CHU135,诺威生态科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120110MAELH8HJXY,天津犀牛鸟信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120111675955497Y,天津德通电气有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120111MA05L07008,天津市众创锐迪科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120111MA069XM522,津鼎润智能装备（天津）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120111MA06Q4XA7K,天津中薇建设工程咨询有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120111MA07G5RM61,北京中科洪安科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120111MABN0UF213,天津巨澄信息咨询有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120111MAC621LJ73,北京博蓝普科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120112052058669F,天津易华录信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120112055294149T,北京安录国际技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120112058712502T,天津市冠誉自动化设备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120112300512446N,天津德起电子科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120112687723765Q,天津尼瑞艾特测控技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120112MA06X2K569,天津康源环保科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120112MACHYMHE2J,天津仁聚咨询有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120112MAK97UBL3R,天津市世椿智能装备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120113055277306D,天津水泥工业设计研究院有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120113MA05J0MY3D,天津艾斯特姆机械设备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120113MACN745270,天津灵犀一点通电子科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911201160731389912,天津龙腾智慧海洋科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116086564770T,盘古网络集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116328554605P,天津滋源环保科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116569319171B,天津精一科技发展股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116578638924Q,五八有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116600523518A,天津尚赫保健用品有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116660300455H,天津惠蓬海洋工程有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9112011667595702XU,天津国信资产评估有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116710921648C,中国通用航空有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911201167178673064,纬湃汽车电子（天津）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911201167274978049,中国联合网络通信有限公司天津市分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116792515220J,埃赫曼合金材料（天津）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116MA05XW7W5W,运达（无锡）物流科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+低,duplicate_entity_merged,C:91120116MA06AYNX64,天津蒙比利埃创新网络科技有限公司,司马台总数据.xlsx,共出现 2 次，已按唯一企业合并
+高,no_usable_coordinate,C:91120116MA06CRC672,天津明喆保安服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116MA06GD267H,中科星盾（北京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116MA06HKET6A,天津天地伟业数码科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116MA06LJWU81,宝石花人力资源有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116MA06QU2Q1L,北京同达利环保科技股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116MA06R53963,天津尚嘉信通科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116MA076G1B6Q,申采智链（北京）科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116MA07B9L79X,天一（天津）智能科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116MA82R47F99,瑞焰（天津）安全顾问有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116MACLB5P94G,桐砚（天津）新材料有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120116MACTQXG76E,天津麦聚科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120118328676979R,首约科技集团股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120118MA05LRQA7J,趣街（天津）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120118MA06GADC8G,天意溯源（天津）消防工程检测有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120118MA06XUCX03,天津集至智慧物流有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120118MA07EY2G6K,天津运友智慧物流有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120118MA07F0T422,国家管网集团工程技术创新有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120118MAC4G1T90J,北京启驰天华科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120118MAC66NQR6R,北京中能首链科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120118MAC673N90R,北京中科极知科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120118MAC6G6CR5C,北京金池天启科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120118MAD6TB8W7N,天津澜德智能机器人有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9112022206402428XP,天津创融科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9112022274403350XC,天津奥特曼电子有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120222MA06AHXE8F,浙江泰科数联信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120222MA06AKL21Q,北京泷涛能源科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120222MA06CMQ977,北京微步九城科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120222MA06QFJQ9C,中创高瓴（北京）数字科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120222MA077KD92N,北京北极速星电子科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120222MA07DPQJ3W,天津海马科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120222MADJ8Y5Y49,天津中脉科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91120223569326400D,天津源美脚手架有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911202245897646006,天津市顶酷乐器有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9113000010436487XC,华讯方舟股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130000MA0E5M0N5J,河北高速公路集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130100084969280F,江泰保险经纪股份有限公司石家庄分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130100104406152N,石家庄市油漆厂,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911301005576756975,卓信通信股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911301005673687380,河北禄发科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911301005689286886,金联安保险经纪（北京）有限公司河北分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130100679916292B,元道通信股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130100700711241Y,中交远洲交通科技集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130100788045828Q,溯源保险公估有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130100788662703T,河北基业创研科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130100MA07T33680,河北昊嘉空调设备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130101750264574L,石家庄宏大测绘有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130101760331208G,河北华安科技开发有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130102329719918E,石家庄润益医疗器械科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130102MA0E05LM71,国器重工机械制造河北有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130102MA7ERFHK2K,河北恒晟工程项目管理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130104MA07PWLM0E,河北锦川质检技术服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130104MA08PE9N4T,河北朋来工程项目管理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130104MA0A34J8XY,北京君恒保险公估有限责任公司河北分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130104MADXDDG921,石家庄安盾保安服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130104MAK7YP02XT,沈阳汇金商务咨询服务有限公司石家庄分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130105084981984H,石家庄大象电子科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130105MABW1W3B8T,河北君诺保安服务有限公司石家庄分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130108MAD759HX71,北京东方华太工程咨询有限公司河北分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130125359038072M,强大泵业集团行唐泵业有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130125MA0CGURN7E,河北给力保险公估有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130126694683538C,河北维嘉无纺布股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130182MACK63AR20,河北广友商贸有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130185MA0DXJ2J91,石家庄微晶恒科电子科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130185MAD11EXR64,石家庄市广科通信设备科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911301933080452722,河北盛鹏化工有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130200059414240H,奥立电子（中国）有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911302001047928234,唐山钢铁集团有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911302006677220603,唐山开滦炭素化工有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911302007666054173,唐山市双赢实业集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130200MA0CR9114Q,唐山凯歌儿实业有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130203MA09D79P7E,沭阳腾之翼网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130203MAC9NRDU42,天津仨合科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130204061694077C,唐山世宁科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911302217898392087,唐山市富城建筑规划设计有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130227MA0DW8EF71,唐山林坤林业服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130293576756951K,唐山市成继科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911302935909750937,唐山大自然环境评估有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130293601236000R,唐山市磁石矿冶科贸有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130293692076873A,河北荣贤智能科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130293784068926G,唐山现代工控技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130293MA0G4B1U5K,天津蓝众科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130294MA0DT5B94C,唐山港信科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911303013477153473,秦皇岛清宸环境检测技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130302MA0G60TN7X,瑞和安惠项目管理集团有限公司秦皇岛分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130302MAK648DD1E,中冀轩辕建设科技有限公司秦皇岛分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130324MA0DLWFH5Y,国友线缆集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9113040060115569X8,藏格矿业股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130402MA0EQL4M4J,河北联川电气有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130402MA0G3XJX9D,邯郸市昂迈电气科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130403MA07LAC016,河北高翔地理信息技术服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130405MAKHQ64Y03,河北亿辰安全技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130405MAKK3PLBXH,河北昊扬安全技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130423056524882A,临漳县禄通网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130434MAE93GB6XX,邯郸杰智自控设备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130435MAC9H3D27H,邯郸市宇浩金属制品有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130481MA07MK7Y0D,河北恒一检测科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130481MAD20HF553,华能武安绿色能源有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130502MA0DFMPP4L,河北千美保险公估有限公司邢台分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130502MA0G4NFYXM,邢台市水尚网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130502MADN1DQ246,邢台诚鑫电子商务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130526661064458W,邢台华电数控设备制造有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130531MAKAHE1188,河北槿禾建筑有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130533MAK5GPT67H,威县冠鑫福机械制造有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130535MAK63T5A82,河北中甯价格评估有限公司临西县分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130602MA080T8G5K,河北博远招标代理有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130606MA0DAW1QX1,中联金安保险经纪有限公司河北分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130606MACP6NWJ6N,泾清项目管理有限公司保定分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130609MA0CGBWH8E,诺博橡胶制品有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130611MA0CPM0UX5,河北天德实业集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130629MAD7E4434U,河北雄安康虹科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130629MADCG8GY0Q,南京灯酉新能源科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130629MADPWE1F58,河北中兴会计师事务所有限责任公司河北雄安分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130629MAE0BEC23A,河北雄安鲁程信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130629MAE1X68A2W,河北雄安博佰科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130629MAEDYA4H1X,广州百仟萃生物科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130632MAD5EDN46F,河北勤甘科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130632MAD5YGN6XA,河北钛闻科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130682MA0FCR3337,广奥厨具有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130683MAG1WF7Y51,中奕佳筑建设发展有限公司安国分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130700106181022B,宣化钢铁集团有限责任公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130703MADNXMQA99,张家口星链网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130722692068259E,华源电力有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9113072657552354X3,中景信（上海）旅游发展集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130729MAD0PQUC7A,张家口锋敏网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911308027314137573,华北地勘生态资源监测中心（河北）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130823MAE5GP0U8P,平泉中正法律咨询服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130823MAKK53UG96,红昕国际项目管理有限公司平泉市分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911308250759501586,隆化县金盾保安服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130900590992870G,河北三剑消防设施检测有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911309033988573459,沧州市沧房保安服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130903MA0ECP5PXQ,河北云踪信息技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130911073743649W,沧州渤海新区互益化工有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130922697581756L,河北融力通达机电有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130924MA0A7QY79U,海兴京兴新能源有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130925MABNU6BAXB,沧州永道财务服务有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130925MAEG71XE26,中环信安（沧州）环境技术工程有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130927MA0F3E8L8A,河北明通通信器材有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130944MAEW27Q90J,天津广正建设项目咨询股份有限公司沧州分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130982MA0GEDUB4M,深圳群伦项目管理有限公司沧州分公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91130983078789339D,黄骅市吉能达运输有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:911309843081278177,河北嘉泰化工科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91131000122410913E,中国石油天然气管道工程有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91131003MA7FBHB93L,微测科技（江苏）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91131022MA07QWPJ73,国环绿洲（固安）环境科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9113102308375523XM,百川燃气热电集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91131024065740456N,河北鑫城电气设备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91131081718375311P,华洋线缆集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91131082721672202B,河北三河燕达实业集团有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91131082MA093M458R,三河东谷软件开发有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91131082MACUYHEFXT,深圳琪物智能科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91131082MAD1EA582H,河北瑶圃专用设备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91131102074885876A,衡水慧阳工程咨询有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91131127MA0FN8TR31,河北本初环境工程有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91133100MA0F8FM3X9,华云（河北雄安）大数据科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91133100MADW1WCM9L,雄安数智盈动科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91210112MA10NWCJ3L,联鲸科技（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91210211MA0QDM9A08,天津益顺健生物科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91210800MA10QXP938,邯郸善为生物科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:912114215646238369,河北厚能能源设备股份有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91230109MA1CMWRH82,北京微擎星空网络科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91230109MA7BMT578A,北京航荣科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91310000MAC908105F,北京芯东来半导体科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91310110MA1G92PG83,北京智悦行文化科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91310118MA1JNTMP5G,天津设序科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91320115MA25PX1J3E,奥特（北京）智能制造有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91320191MA212QCU5D,京城中安半导体设备（北京）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91320211MA22NKXU8R,海瑞空间（北京）信息科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91320594MA1XULBP47,北京永晟鑫合科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91330201MA2CHBLLXE,和利时卡优倍科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91330324MA29A0GW7X,北高阀门有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91350200737876795E,北京中科亿唐生态科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91370100730668002D,北京中车智能装备有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91370211MA3WG0C728,北京国信金网数科科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91370212MA3NWE8D3U,北京盛世影云科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91370500MA3P38AJ22,雄安维点技术有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:9137050234464431XM,北京动力云图智能科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91410100MA47E04M2L,固高创新（北京）科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91410100MA9H1CA94B,北京崤云科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91410581MA9LNU7X4L,北京普丰新能环境科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91440300MA5FGYQ80C,中外运创新科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91440300MA5G24DN30,洞见科技（雄安）有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91440300MA5GLMET1R,中数安信科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91500000MA60RDDA5G,重庆睿行电子科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91510107MA6CL5W86K,河北仓鸣价格鉴证评估有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91520191MABWNP9T4N,中化学环境科技发展有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,C:91620103091183702H,国华卫星数据科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,N:北京天沁春财务顾问中心,北京天沁春财务顾问中心,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+高,no_usable_coordinate,N:陕县中联科技有限公司,陕县中联科技有限公司,司马台总数据.xlsx,企业保留在清单中，但不参与空间聚类
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 36.696353,113.915626 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 37.061723,114.565697 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 38.000353,114.489781 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 38.003328,114.542299 对应 19 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 38.018337,114.442035 对应 26 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 38.019023,114.608602 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 38.033965,114.653880 对应 17 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 38.034081,114.657869 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 38.043568,114.583091 对应 16 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 38.280030,114.683294 对应 20 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 38.346044,115.982513 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 38.928763,115.456328 对应 18 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 38.955687,117.715635 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 38.959236,117.412690 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 38.976307,117.414481 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.000587,117.818598 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.017892,117.376758 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.021082,116.112865 对应 19 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.042237,115.861248 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.042322,115.873481 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.043117,115.866388 对应 21 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.043616,115.854115 对应 36 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.044263,115.872568 对应 33 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.045347,117.305457 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.048818,115.911598 对应 17 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.054864,117.669993 对应 19 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.064720,117.672966 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.077116,117.094279 对应 25 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.078939,117.094935 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.079083,117.096934 对应 20 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.084372,117.067810 对应 36 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.085750,117.097214 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.085843,117.092510 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.088171,117.125790 对应 42 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.090444,117.125823 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.091717,117.118934 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.092566,117.122010 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.093513,117.127885 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.094159,117.121338 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.094240,117.115172 对应 18 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.094649,117.127967 对应 43 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.096144,117.124592 对应 28 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.096210,117.125572 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.097191,117.123105 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.097282,117.068277 对应 27 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.097291,117.122110 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.097333,117.116822 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.098430,117.072300 对应 19 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.099784,117.087917 对应 35 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.102834,117.709778 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.103953,117.711015 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.106949,117.155894 对应 22 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.106980,117.153145 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.114097,117.756544 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.120599,117.183893 对应 28 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.126635,118.547934 对应 103 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.133941,117.526817 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.147796,117.401306 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.154624,117.413381 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.155296,117.211133 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.155798,117.390549 对应 30 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.160857,117.393868 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.161489,117.370763 对应 29 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.270841,116.938818 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.513289,116.416608 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.552919,116.515260 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.552929,116.515260 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.653590,116.100202 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.682426,116.301880 对应 21 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.684536,118.180071 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.686033,116.704121 对应 26 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.705983,116.015873 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.712179,116.192796 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.717783,116.127002 对应 82 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.722903,116.132460 对应 23 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.731400,116.555443 对应 27 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.734293,116.332364 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.755047,116.360081 对应 32 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.773025,116.359053 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.777554,116.556956 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.781737,116.516816 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.782249,116.552859 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.785160,116.496352 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.788060,116.514698 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.790183,116.509927 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.791896,116.511668 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.793028,116.512370 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.795253,116.506725 对应 89 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.795275,116.506622 对应 22 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.800315,116.513180 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.800350,116.839759 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.801953,116.575024 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.802196,116.532628 对应 18 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.803790,116.503556 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.809176,116.539189 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.823100,116.290935 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.823134,116.295733 对应 18 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.823941,116.300464 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.825012,116.295491 对应 29 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.825022,116.282928 对应 24 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.826637,116.290784 对应 19 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.826772,116.290596 对应 23 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.828719,116.280953 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.831522,116.287655 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.831575,116.287287 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.832684,116.292241 对应 16 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.839258,116.285808 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.843795,116.297144 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.849419,116.558125 对应 21 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.854287,116.366163 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.854913,116.258524 对应 17 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.869553,116.279793 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.896267,116.127650 对应 18 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.896425,116.127468 对应 67 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.910879,116.456614 对应 24 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.914808,116.295461 对应 22 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.914946,116.295490 对应 20 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.918601,116.316590 对应 16 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.919287,116.264507 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.919599,116.208816 对应 17 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.919943,116.456669 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.923856,116.342342 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.924975,116.601334 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.926317,116.671438 对应 17 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.928142,116.278083 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.931341,116.085291 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.931597,116.276637 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.931785,116.261189 对应 29 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.932920,116.275777 对应 23 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.933387,116.276477 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.934404,116.309182 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.934698,116.189403 对应 22 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.935129,116.189251 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.935489,116.309169 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.937208,116.193187 对应 32 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.937237,116.192802 对应 21 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.937462,116.196071 对应 26 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.939185,116.191628 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.939475,116.193561 对应 35 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.939475,116.304367 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.939518,116.193710 对应 45 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.946963,116.292263 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.947741,116.325229 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.948574,116.423358 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.950875,116.355074 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.953618,116.270947 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.953855,116.356046 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.958143,116.457604 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.959893,116.297700 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.960637,116.315424 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.961136,116.288068 对应 18 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.963676,116.319262 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.964240,116.341720 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.964557,116.341385 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.964704,116.324959 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.965028,116.370726 对应 27 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.968912,116.329741 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.970729,116.333552 对应 32 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.970834,116.378660 对应 18 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.974310,116.235106 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.975065,116.319134 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.975303,116.257116 对应 16 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.975995,116.332332 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.976460,116.318928 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.977173,116.306944 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.978331,116.306445 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.981648,116.317119 对应 16 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.981722,116.309095 对应 18 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.981755,116.305369 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.982148,116.307188 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.983342,116.315419 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.983512,116.317350 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.983517,116.317260 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.983528,116.317738 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.983598,116.317567 对应 25 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.983700,116.317270 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.983880,116.504860 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.984193,116.304545 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.984524,116.351517 对应 44 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.985284,116.328797 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.985717,116.352042 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.986186,116.351235 对应 17 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.987031,116.334037 对应 23 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.987202,116.334046 对应 31 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.987993,116.333976 对应 20 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.988353,116.333846 对应 33 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.988587,116.366018 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.993670,116.330624 对应 16 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.993942,116.330304 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.994997,116.467489 对应 24 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.995102,116.467534 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.995109,116.334177 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.995238,116.487146 对应 22 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.996171,116.470293 对应 17 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 39.997378,116.480362 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.003140,116.382763 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.009252,116.353809 对应 16 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.009898,116.353709 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.010975,116.353601 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.012758,116.473803 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.019894,116.351076 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.020150,116.344743 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.020588,116.277874 对应 18 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.020686,116.277423 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.026540,116.312305 对应 17 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.026568,116.312792 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.028518,116.347635 对应 16 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.030384,116.346734 对应 17 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.035083,116.311667 对应 18 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.035152,116.311549 对应 27 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.035958,116.311871 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.035959,116.372179 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.036092,116.307401 对应 19 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.036448,116.308387 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.036527,116.307294 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.036614,116.308047 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.036804,116.307951 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.036962,116.308905 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.037279,116.311194 对应 30 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.037365,116.313790 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.038779,116.320626 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.038784,116.319191 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.039465,116.312022 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.039569,116.311102 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.039577,116.312341 对应 18 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.041336,116.308398 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.041951,116.374469 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.042549,116.310015 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.042768,116.332570 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.044487,116.296828 对应 33 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.045594,116.416809 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.046244,116.285399 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.046562,116.306128 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.046885,116.282088 对应 28 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.047010,116.282513 对应 34 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.047557,116.337329 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.051272,116.303148 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.051899,116.208771 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.053430,116.302473 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.053490,116.351097 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.053665,116.299322 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.056656,116.330069 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.060493,116.292742 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.062625,116.353392 对应 20 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.069645,116.417789 对应 15 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.070494,116.193273 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.073622,116.248560 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.076133,116.246576 对应 20 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.076316,116.235755 对应 17 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.076321,116.235724 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.078945,116.278784 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.079612,116.227928 对应 29 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.079942,116.346931 对应 17 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.082111,116.339183 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.091111,116.310073 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.098955,116.292567 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.099090,116.292496 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.142128,117.114642 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.143117,116.686218 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.150421,116.570158 对应 17 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.203098,116.282898 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.204734,116.257019 对应 19 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.232111,116.858379 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.295285,116.684876 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.302286,116.639828 对应 14 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.346533,116.612124 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.351448,116.683554 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.352771,116.818087 对应 12 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.353063,116.817486 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.363578,116.671725 对应 32 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.369021,115.920985 对应 11 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.375118,115.916937 对应 18 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.375280,115.927089 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.376736,116.864102 对应 10 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.376772,116.864034 对应 13 家唯一企业"
+中,high_frequency_exact_coordinate,,,司马台总数据.xlsx,"坐标 40.377078,116.848011 对应 10 家唯一企业"
+高,cluster_coordinate_concentration,Q01,河北待核验集聚区-Q01,,不同坐标点 11 个；单一精确坐标占比 86.6%；不计入正式集群数量
